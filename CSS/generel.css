@@ -1,0 +1,10 @@
+html {
+  /* Farver */
+  --color-bg: #fff7ee;
+  --color-border: #59423a;
+  --color-h1: #59423a;
+  --color-h2: #6b4b3a;
+  --color-text: #6b4b3a;
+  --color-section: #e6c8a5;
+  --color-border-section: #e6c8a5;
+}

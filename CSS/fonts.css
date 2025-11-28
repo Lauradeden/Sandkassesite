@@ -1,0 +1,25 @@
+/* Fonts */
+@font-face {
+  font-family: "Playfair ";
+  src: url(../fonts/PlayfairDisplay-VariableFont_wght.woff2);
+  font-weight: ;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Playfair";
+  src: url(../fonts/PlayfairDisplay-VariableFont_wght.woff2);
+  font-weight: ;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Playfair";
+  src: url(../fonts/PlayfairDisplay-VariableFont_wght.woff2);
+  font-weight: ;
+  font-style: normal;
+}
+@font-face {
+  font-family: "WorkSans";
+  src: url(../fonts/WorkSans-VariableFont_wght.woff2);
+  font-weight: ;
+  font-style: normal;
+}
