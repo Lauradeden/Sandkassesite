@@ -44,20 +44,23 @@ body {
       font-size: medium;
     }
     p {
-      font-family: "work Sans";
+      font-family: "workSans";
       color: var(--color-text);
       font-size: small;
       line-height: 1.5em;
     }
+    .layered-elements {
+      position: relative;
+    }
     .layered-elements img {
-      max-width: 100%;
+      width: 100%;
       height: auto;
       display: block;
     }
     .circle-text {
       position: absolute;
-      right: 10%;
-      bottom: 0%;
+      right: 30%;
+      bottom: 30%;
       background: rgb(230, 200, 165, 0.9);
       padding: 2.5rem;
       width: 4rem;
@@ -67,6 +70,7 @@ body {
       justify-content: center;
       align-items: center;
       text-align: center;
+      transform: translate(50%, 50%);
     }
   }
   #section_gallery {
@@ -99,5 +103,6 @@ body {
     font-family: "Work Sans";
   }
 }
+/* Tablet */
 
 /* Desktop */
